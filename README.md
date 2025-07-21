@@ -10,7 +10,10 @@ Throughout this analysis, countries like Germany and France displayed moderate r
 Visualizations and the dashboard can be found at "visualizations-&-dashboard" branch, reports can be found in "essays" branch, datasets used can be found at "data" branch and the notebook I used can be found at the "notebook" branch.
 
 **Resources**
+
 Data sources: The Economist (2024)World Health Organization (2025)Population based on various sources (2024) – with major processing by Our World in Data
+
+
 [Unemployment, total (% of total labor force) - World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS)
 
  
