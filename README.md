@@ -1,4 +1,4 @@
-# unemppercov_eda
+# unemppercovideunl_eda
 An EDA based on World Bank's unemployment statistics and Our World in Data's COVID-19 database between 2020 and 2023. Narrowed down to the Europe and the Netherlands. This project specifically examines a derived metric: unemployment per excess death, which reflects how economic disruption (in terms of unemployment) compares to the human toll of the pandemic.
 
 I have narrowed down this EDA to the European Union and the Netherlands in particular, as these regions align with my academic and professional interests. For this project, I used Pandas for data cleaning and manipulation, and Matplotlib / Seaborn for visualizing trends through line charts and heatmaps. Additionally, I built an interactive Power BI dashboard to allow dynamic filtering by country and year.
